@@ -1,0 +1,24 @@
+{
+  "name": "moodycons",
+  "version": "1.0.0",
+  "description": "Open source emoji mood icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhunninghake/moodycons.git"
+  },
+  "keywords": [
+    "Emoji",
+    "icons",
+    "svg"
+  ],
+  "author": "Daniel Hunninghake <d@dhunninghake.com> (http://dhunninghake.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhunninghake/moodycons/issues"
+  },
+  "homepage": "https://github.com/dhunninghake/moodycons#readme"
+}
